@@ -18,7 +18,7 @@ I'm passionate about turning raw data into impactful solutions. Let's connect an
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nvkanirudh.github.io/portfolio/#tech-stack)
 
 ---
-### Tech Stack 🖥️
+## Tech Stack 🖥️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,7 +62,7 @@ I'm passionate about turning raw data into impactful solutions. Let's connect an
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Stats 📊
+## Stats 📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NvkAnirudh&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NvkAnirudh&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NvkAnirudh&theme=gotham)
