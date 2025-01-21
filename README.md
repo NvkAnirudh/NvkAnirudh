@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Anirudh%20Nuti%20🤗;Love%20solving%20problems%20with%20data%20🤩;Data%20Engineer%20
+    <img src="https://readme-typing-svg.demolab.com/?lines=Anirudh%20Nuti%20🤗;Love%20solving%20problems%20with%20data%20🤩;Data%20Engineer%20;
 &font=Fira%20Code&center=true&width=440&height=45&color=C0C0C0&background=51FFC348&vCenter=true&pause=1000&size=22&width=500" /></a>
 </p>
 
