@@ -5,9 +5,9 @@
 </p>
 
 ### Hi there 👋 
-I'm Anirudh, a data scientist and ML engineer with a passion for solving complex problems across the data spectrum. From optimizing ETL pipelines to building fraud detection systems, I love diving into challenging projects. My toolkit spans SQL, Python, cloud technologies, and ML frameworks.
+I'm Anirudh, a Data Engineer passionate about solving complex problems across the data spectrum. From optimizing ETL pipelines to building fraud detection systems, I love diving into challenging projects. My toolkit spans SQL, Python, cloud technologies, and ML frameworks.
 
-I've worked on everything from computer vision to NLP, big data processing with Spark, and creating interactive dashboards in Tableau. Whether it's wrangling data, developing AI models, or crafting insightful visualizations, I'm always pushing the boundaries of what's possible.
+I've worked in different fields ranging from computer vision to NLP, big data processing with Spark, and creating interactive dashboards in Tableau. Whether it's wrangling data, developing AI models, or crafting insightful visualizations, I'm always pushing the boundaries of what's possible.
 
 I'm passionate about turning raw data into impactful solutions. Let's connect and create something amazing with data and AI!
 
