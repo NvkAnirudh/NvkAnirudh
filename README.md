@@ -1,21 +1,23 @@
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Anirudh%20Nuti%20🤗;Love%20solving%20problems%20with%20data%20🤩;Data%20Engineer%20&font=Fira%20Code&center=true&width=440&height=45&color=C0C0C0&background=51FFC348&vCenter=true&pause=1000&size=22&width=500" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Anirudh+Nuti;Data+and+AI+Engineer;Building+Intelligent+Systems&font=Fira+Code&center=true&width=400&height=50&color=06b6d4&pause=1000&size=24" alt="Typing SVG" />
 </p>
 
 ### Hi there 👋 
-I'm Anirudh, a Data Engineer passionate about solving complex problems across the data spectrum. From optimizing ETL pipelines to building fraud detection systems, I love diving into challenging projects. My toolkit spans SQL, Python, cloud technologies, and ML frameworks.
+I'm Anirudh, a Data & AI Engineer who bridges the gap between data infrastructure and intelligent systems. Currently building **Nidhi AI**, an intelligent financial companion powered by Agentic AI and Text2SQL, where I architect full-stack platforms that transform natural language into actionable database insights.
 
-I've worked in different fields ranging from computer vision to NLP, big data processing with Spark, and creating interactive dashboards in Tableau. Whether it's wrangling data, developing AI models, or crafting insightful visualizations, I'm always pushing the boundaries of what's possible.
+As the founder of **DEtermined**, I've scaled a data engineering education platform to 200+ subscribers and 30K+ monthly impressions, where I write in-depth technical content helping thousands of engineers master Apache Spark, distributed data pipelines, and modern data architecture.
 
-I'm passionate about turning raw data into impactful solutions. Let's connect and create something amazing with data and AI!
+My expertise spans the complete data-to-AI pipeline: from architecting scalable ETL workflows with Apache Spark and Airflow, to building production-grade ML systems with computer vision and NLP, to deploying GenAI applications with LangChain, RAG, and LLMs. I've engineered systems that process real-time streams with Kafka and Flink, automated document processing with Mask R-CNN achieving 97% accuracy, and built MCP servers for AI-powered content generation.
+
+Whether it's optimizing distributed data pipelines on AWS, fine-tuning language models, or crafting intelligent agents that reason over complex datasets, I thrive at the intersection where cloud-scale data engineering meets cutting-edge AI.
+
+Let's connect and build the next generation of intelligent data systems!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nvkanirudh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuti.krish4@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anirudhnuti/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nutianirudh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nvkanirudh.github.io/portfolio/#tech-stack)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://anirudhnuti.com/)
 
 ---
 ## Stats 📊
